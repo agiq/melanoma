@@ -59,3 +59,6 @@ Activation Function(Softmax) - A softmax activation function (sometimes called 
 
 ![architecture](architecture.png)
 ![model plot](model_plot.png)
+
+# Model Performance
+![model performance](model_performance.png)
