@@ -57,4 +57,5 @@ Activation Function(ReLU) - The Rectified Linear Unit (ReLU) is a piecewise lin
 
 Activation Function(Softmax) - A softmax activation function (sometimes called a sigmoid function) is often used to determine the most likely response of a model. In our case, we use a probability range to calculate a specific target audience for the product. The range is from 0 to 1. If you have a product with a range of 0 to 1, you can calculate the probability that your customer will buy this product as a percentage.
 
-[!architecture](architecture.png)
+![architecture](architecture.png)
+
